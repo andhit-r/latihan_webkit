@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <report auto="False" 
+				id="report_latihanWebkit_accountMove" 
+				model="account.move" 
+				name="report_account_move"  
+				file="latihan_webkit/report/report_account_move.mako" 
+				string="WebKit Account Move" 
+				report_type="webkit" />
+    </data>
+</openerp>
